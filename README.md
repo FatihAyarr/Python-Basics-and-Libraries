@@ -1,2 +1,2 @@
 # Python Basics and Libraries
-Documentation for numpy, pandas, and matplotlib
+Documentation for Python basics, numpy, pandas, and matplotlib
